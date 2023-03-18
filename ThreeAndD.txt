@@ -1,0 +1,6 @@
+Danny Green~Shooting Guard~11.4~2.1~4.1~0.9~1.1~2.7~7.2~8.2
+Klay Thompson~Shooting Guard~23.7~4.7~3.1~1.5~0.4~3.1~15.7~34.3
+Robert Covington~Small Forward~9.2~0.6~7.2~1.8~0.8~2.4~6.4~4.5
+OG Anunoby~Small Forward~14.6~1.4~7.3~2.4~1.3~4.8~5.9~3.7
+Paul George~Small Forward~24.6~4.2~6.2~1.1~1.2~3.7~5.6~7.9
+PJ Tucker~Power Forward~13.6~0.6~8.9~0.8~0.4~3.1~7.4~0.5

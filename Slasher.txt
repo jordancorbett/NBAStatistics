@@ -1,0 +1,6 @@
+Demar Derozan~Shooting Guard~18.7~3.4~4.5~0.4~0.3~15.2~3.4~3.7
+LeBron James~Samll Forward~24.6~7.8~9.1~1.5~1.9~21.6~7.1~4.1
+Zach Lavine~Shooting Guard~24.7~5.5~6.2~0.6~0.9~18.4~2.1~2.4
+Giannis Antetokuonmp~Samll Forward~27.1~75.6~11.3~2.1~2.5~22.4~8.1~5.9
+Zion Williamson~Small Forward~22.1~4.1~6.2~0.7~1.5~17.3~3.1~9.2
+Gordon Hayward~Samll Forward~15.2~2.7~8.2~0.3~0.4~10.1~1.2~2.1
